@@ -2,7 +2,7 @@
 
 An experiment inspired by Stanford’s Agentic Context Engineering (ACE) framework — applied to healthcare data abstraction.
 This repo accompanies my Medium post
-[The End of Prompt Engineering? Stanford’s Self-Improving AI Learned Clinical Reasoning on Its Own.]()
+[The End of Prompt Engineering? Stanford’s Self-Improving AI Learned Clinical Reasoning on Its Own.](https://medium.com/p/6d8e0e1bc554)
 
 It shows how a language model can reflect, learn, and build its own playbook for reasoning through complex clinical notes.
 ## What this repo includes
@@ -65,10 +65,10 @@ This repo applies that idea to a classic hard problem in clinical NLP: lab value
 ## Learn More
 
 For the full write-up, results, and visualizations:
-[Read the blog post on Medium]()
+[Read the blog post on Medium](https://medium.com/p/6d8e0e1bc554)
 
 For hands-on exploration:
-[Run the demo notebook]()
+[Run the demo notebook](https://github.com/mhdroz/ace_medium/blob/main/ace_labs.ipynb)
 
 ## Questions or feedback?
 
